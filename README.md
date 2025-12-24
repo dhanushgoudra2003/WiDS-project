@@ -27,16 +27,8 @@ pip install pandas numpy matplotlib seaborn scipy
 
 📌 Usage Instructions
 
-    Clone the repository:
-
-git clone https://github.com/your-username/repo-name.git
-
-Navigate to the project folder:
-
-cd repo-name
-
-Open the Jupyter Notebook:
-
-jupyter notebook EDA_Team_4_(SUB23).ipynb
-
-Run the cells to perform EDA on the dataset.
+1) Clone the repository: git clone https://github.com/your-username/repo-name.git
+2)Navigate to the project folder:
+3)cd repo-name
+4)Open the Jupyter Notebook: jupyter notebook EDA_Team_4_(SUB23).ipynb
+5)Run the cells to perform EDA on the dataset.
