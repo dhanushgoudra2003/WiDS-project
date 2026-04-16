@@ -1,4 +1,4 @@
-# 🧠 WiDS Breast Cancer Prediction Project
+# 🧠 Breast Cancer Metastasis Prediction using H2O AutoML
 
 ## 🚀 Overview
 
